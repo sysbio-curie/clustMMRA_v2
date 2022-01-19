@@ -61,14 +61,12 @@ pipeline.
 the pipeline. 
 * clustMMRA_output.txt : final output of the pipeline.
 
-## Data
-The TCGA and Curie datasets used in our work can be dowloaded from the publications cited in the paper.
-
 ## Contact
 Please feel free to contact us at
 
-<laura.cantini@curie.fr>
+<loredana.martignetti@curie.fr>
+<cantini@bio.enspsl.eu>
 
 Moreover, feel free to change the code according to your needs.
 
-For every use of the original or modified pipeline cite (https://www.biorxiv.org/content/biorxiv/early/2018/03/28/290528.full.pdf).
+For every use of the original or modified pipeline cite (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6412120/).
