@@ -1,0 +1,8 @@
+hsa-miR-509-5p
+hsa-miR-509-3p
+hsa-miR-509-5p.1
+hsa-miR-509-3p.1
+hsa-miR-509-3-5p
+hsa-miR-509-3p.2
+hsa-miR-514b-5p
+hsa-miR-514b-3p

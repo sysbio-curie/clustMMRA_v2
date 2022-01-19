@@ -1,0 +1,3 @@
+hsa-miR-130b-5p
+hsa-miR-130b-3p
+NA

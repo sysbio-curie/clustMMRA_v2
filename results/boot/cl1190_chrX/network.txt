@@ -1,0 +1,2 @@
+Regulator	Target	MI	pvalue
+hsa-let-7f-2-3p	TRIM9	0.3320473384784887	0.016100367318914177

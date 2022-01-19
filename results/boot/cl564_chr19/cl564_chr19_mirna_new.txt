@@ -1,0 +1,3 @@
+hsa-miR-181c-5p
+hsa-miR-181c-3p
+NA

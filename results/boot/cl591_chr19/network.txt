@@ -1,0 +1,3 @@
+Regulator	Target	MI	pvalue
+hsa-miR-371a-5p	hsa-miR-371b-3p	0.3676569932009593	0.0
+hsa-miR-371b-3p	hsa-miR-371a-5p	0.3593014874196765	0.0

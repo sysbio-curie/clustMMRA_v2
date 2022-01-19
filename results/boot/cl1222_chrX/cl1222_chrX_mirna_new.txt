@@ -1,0 +1,6 @@
+hsa-miR-892a
+hsa-miR-890
+hsa-miR-891b
+hsa-miR-888-5p
+NA
+hsa-miR-892b

@@ -1,0 +1,3 @@
+hsa-miR-296-5p
+hsa-miR-296-3p
+hsa-miR-298

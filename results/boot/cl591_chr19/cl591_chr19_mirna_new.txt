@@ -1,0 +1,7 @@
+hsa-miR-371a-5p
+hsa-miR-371a-3p
+NA
+NA.1
+hsa-miR-373-3p
+hsa-miR-371b-5p
+hsa-miR-371b-3p

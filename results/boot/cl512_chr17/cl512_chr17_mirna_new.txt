@@ -1,0 +1,6 @@
+hsa-miR-338-5p
+hsa-miR-338-3p
+hsa-miR-657
+hsa-miR-1250-5p
+hsa-miR-3065-5p
+hsa-miR-3065-3p

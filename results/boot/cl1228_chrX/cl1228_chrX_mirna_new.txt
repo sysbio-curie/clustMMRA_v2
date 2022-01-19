@@ -1,0 +1,7 @@
+NA
+hsa-miR-514a-3p
+hsa-miR-514a-5p
+hsa-miR-514a-5p.1
+hsa-miR-514a-3p.1
+hsa-miR-514a-3p.2
+hsa-miR-514a-5p.2

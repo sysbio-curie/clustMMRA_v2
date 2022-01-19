@@ -1,0 +1,2 @@
+hsa-miR-206
+hsa-miR-133b

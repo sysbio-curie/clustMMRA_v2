@@ -1,0 +1,15 @@
+hsa-miR-188-5p
+hsa-miR-188-3p
+hsa-miR-362-5p
+hsa-miR-362-3p
+hsa-miR-500a-5p
+hsa-miR-500a-3p
+hsa-miR-501-5p
+hsa-miR-501-3p
+NA
+hsa-miR-502-3p
+hsa-miR-532-5p
+hsa-miR-532-3p
+hsa-miR-660-5p
+hsa-miR-660-3p
+NA.1
